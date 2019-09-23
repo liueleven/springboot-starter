@@ -1,0 +1,3 @@
+# 指定自动配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.eleven.springbootstarter.demo.config.SomeServiceAutoConfiguration
